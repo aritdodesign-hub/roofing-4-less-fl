@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 44">
+  <!-- Roofing 4 Less Florida roof mark, redrawn from the logo on their Google listing banner:
+       two black roof outlines with royal-blue (#004aad) slopes and two four-pane windows. -->
+  <path d="M8.5 33.5 21 19.5l4.5 5L15 35.5Z" fill="#004aad"/>
+  <path d="M28 34.5 41 12l5 6.5-11.5 18Z" fill="#004aad"/>
+  <path d="M3.5 37.5 21 17.5l10 11" fill="none" stroke="#1c1b1c" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M19.5 37.5 41 7l20 30.5H19.5" fill="none" stroke="#1c1b1c" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#004aad">
+    <rect x="25" y="29" width="2.6" height="2.6"/><rect x="28.2" y="29" width="2.6" height="2.6"/>
+    <rect x="25" y="32.2" width="2.6" height="2.6"/><rect x="28.2" y="32.2" width="2.6" height="2.6"/>
+    <rect x="45" y="26" width="3" height="3"/><rect x="48.6" y="26" width="3" height="3"/>
+    <rect x="45" y="29.6" width="3" height="3"/><rect x="48.6" y="29.6" width="3" height="3"/>
+  </g>
+</svg>
